@@ -1,5 +1,5 @@
 # Human-Action-Recognition
-This is a research project carried out in the months of August-November 2019.
+This is a research project carried out in the months of August-November 2019 and the work has been published in an IEEE paper(https://ieeexplore.ieee.org/document/9342248)
 
 ## Description
 Human   Action   Recognition   (HAR)   is   the   process   of examining and recognizing the nature of the action performed by  humans  in  a  video  sequence.  The  innate  ability  of  ahuman  to  understand  another  person’s  activities  has  been  animportant  subject  of  study  in  the  field  of  computer  vision. HAR   methods   are   widely   applied   in   building   electronicsystems supported machine intelligence like intelligent policework,  human-machine  interaction,  biometrics,  health  care,and so on.
